@@ -203,3 +203,8 @@ The **Mint-to Logic System for Validation-Based Digital Routing and Protocol Exe
 - 📢 Public declaration across **LinkedIn, X (Twitter), YouTube, and professional forums.**  
 # WHITEPAPER.md
 Quantum Superhighway™  Validation-based digital routing, lifecycle governance, and sovereign data integrity framework. Timestamped under Unified Notice: Intellectual Property Protection™ with disclosures limited until strategic deployment.
+
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law.
+Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents.
+This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
