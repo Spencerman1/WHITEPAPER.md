@@ -1,3 +1,10 @@
+The SSPS IP stack, including Mint-to Logic™, The Shepherd’s Method™, and all governing logic, is protected under U.S. and international trade secret and copyright frameworks. Certain elements have been publicly disclosed for continuity and copyright purposes, while core governing logic remains confidential and has never been voluntarily disclosed in a manner that constitutes waiver.
+
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law.
+Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents.
+This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
+
 🏛️ Jurisdictional Correction and Repository Clarification
 Effective Date: July 1, 2025
 
@@ -204,7 +211,4 @@ The **Mint-to Logic System for Validation-Based Digital Routing and Protocol Exe
 # WHITEPAPER.md
 Quantum Superhighway™  Validation-based digital routing, lifecycle governance, and sovereign data integrity framework. Timestamped under Unified Notice: Intellectual Property Protection™ with disclosures limited until strategic deployment.
 
-By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law.
-Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents.
-This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
 
